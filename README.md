@@ -1,4 +1,7 @@
-# Ecommerce-Website
+## Ecommerce-Website
+
+## Overview
+
 This is an Ecommerce / Shopping Website Designed in a very simple way using PHP.
 Front-End: HTML CSS
 Back-End: PHP
@@ -6,7 +9,11 @@ Database: Mysql
 Shop.sql file is the mysql database for this website.
 
 * Note: The website does not have any admin panel so the data should be directly manipulated by admin using Mysql database only.
+
+## Clone
+Clone this Repo by Running : git clone https://github.com/Psycho-Patch/Ecommerce-Website.git 
 __________________________________________________________________
+
 # How to run Website on your local server:- 
 
 Step 1: First copy or clone all the files to your PC.
