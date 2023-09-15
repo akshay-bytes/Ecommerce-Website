@@ -5,7 +5,7 @@ Back-End: PHP
 Database: Mysql
 Shop.sql file is the mysql database for this website.
 
-* Note: The website does not have any admin panel so the data should be directl manipulated by admin using Mysql database only.
+* Note: The website does not have any admin panel so the data should be directly manipulated by admin using Mysql database only.
 __________________________________________________________________
 # How to run Website on your local server:- 
 
